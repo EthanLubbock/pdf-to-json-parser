@@ -1,0 +1,65 @@
+{
+  "menu_summary": "Beer menu, simple design, focusing on the beer names and prices.",
+  "products": [
+    {
+      "name": "State of Brewing Maguires Draught Stout",
+      "price": "10",
+      "brand": "State of Brewing"
+    },
+    {
+      "name": "Sierra Nevada Pale Ale",
+      "price": "13",
+      "brand": "Sierra Nevada"
+    },
+    {
+      "name": "State of Brewing Wheat Beer Brecken Hefeweizen",
+      "price": "13",
+      "brand": "State of Brewing"
+    },
+    {
+      "name": "State of Brewing Aldager Amber Lager",
+      "price": "11",
+      "brand": "State of Brewing"
+    },
+    {
+      "name": "Wernesgruner Pils Legende",
+      "price": "12",
+      "brand": null
+    },
+    {
+      "name": "Sierra Nevada Torpedo Extra Ipa",
+      "price": "9",
+      "brand": "Sierra Nevada"
+    },
+    {
+      "name": "State of Brewing Chocolate Stout",
+      "price": "14.5",
+      "brand": "State of Brewing"
+    },
+    {
+      "name": "Independence Harbor Amber Ale with Honey Added",
+      "price": "15.5",
+      "brand": null
+    },
+    {
+      "name": "Holland Lager 1839",
+      "price": "8",
+      "brand": null
+    },
+    {
+      "name": "Wernesgruner Pils Legende",
+      "price": null,
+      "brand": null
+    },
+    {
+      "name": "Monterrey Cerveza",
+      "price": "12",
+      "brand": null
+    }
+  ],
+  "brand_percentages": {
+    "State of Brewing": 40,
+    "Sierra Nevada": 20,
+    "unbranded": 40
+  }
+}

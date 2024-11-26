@@ -1,0 +1,47 @@
+{
+  "menu_summary": "Wine menu, with a focus on red and white wines from various regions and brands.",
+  "products": [
+    {
+      "name": "10000 Hours Syrah Red Mountain 2019",
+      "description": "On the nose, very dark and earthy, with blackberry, espresso bean and hints of lavender. Big and expressive on the palate, with ample rich, chewy tannins leading to a long, fruit-driven finish.",
+      "price": "$40",
+      "brand": "10000 hours"
+    },
+    {
+      "name": "10000 Hours Red Blend Red Mountain 2018",
+      "description": "This red offers enticing aromas of ripe red fruit and spice. On the palate, it is medium-bodied with balanced acidity and smooth tannins, leading to a pleasant, lingering finish.",
+      "price": "$50",
+      "brand": "10000 hours"
+    },
+    {
+      "name": "Antinori Guado al Tasso Bolgheri Superiore Rosso Matarocchio 2017",
+      "description": "Rich with an intense ruby red color, its nose offers aromas of juniper, bay leaves, Morello cherries and licorice.",
+      "price": "$60",
+      "brand": null
+    },
+    {
+      "name": "Barefoot Chardonnay Buttery California",
+      "description": "A crisp, refreshing blend of juicy peaches and sweet apricots, Barefoot Moscato combines lush, fruity aromas with a bright, crisp finish that is sure to please any crowd. Finished with a tantalizing twist of lemon and citrus.",
+      "price": "$35",
+      "brand": "Barefoot"
+    },
+    {
+      "name": "Free Reign Sauvignon Blanc California",
+      "description": "This white wine displays bright citrus and floral notes on the nose. The palate is crisp and refreshing with flavors of green apple and pear, complemented by a subtle minerality. It finishes clean and zesty.",
+      "price": "$50",
+      "brand": "free reign"
+    },
+    {
+      "name": "Josh Cellars Chardonnay California",
+      "description": "The nose exudes aromas of tropical fruits and citrus married with subtle oak notes. On the palate, this wine is a great balance of bright citrus and honey with a touch of oak character.",
+      "price": "$28",
+      "brand": null
+    }
+  ],
+  "brand_percentages": {
+    "10000 hours": 40,
+    "free reign": 20,
+    "Barefoot": 20,
+    "unbranded": 20
+  }
+}

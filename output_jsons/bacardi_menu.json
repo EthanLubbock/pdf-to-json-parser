@@ -1,0 +1,29 @@
+{
+  "menu_summary": "A Bacardi rum menu featuring promotional offers for the month. The design seems simple and focuses on the brand.",
+  "products": [
+    {
+      "name": "Bacardi Gold Rum",
+      "price": "$ten",
+      "brand": "Bacardi"
+    },
+    {
+      "name": "Bacardi Aged Rum Rare Gold Ocho 8 Yr",
+      "price": "$fifteen",
+      "brand": "Bacardi"
+    },
+    {
+      "name": "Bacardi Dragon Berry Flavored Rum",
+      "price": "$twelve",
+      "brand": "Bacardi"
+    },
+    {
+      "name": "Bacardi Light Rum Superior",
+      "price": "$twenty",
+      "brand": "Bacardi"
+    }
+  ],
+  "brand_percentages": {
+    "Bacardi": 100,
+    "unbranded": 0
+  }
+}
